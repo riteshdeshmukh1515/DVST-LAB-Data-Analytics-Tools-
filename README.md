@@ -106,9 +106,4 @@ DVST-Lab/
 
 ---
 
-If you want, I can also:
-✅ Add screenshots section with placeholders
-✅ Make it more “ATS / university submission ready”
-✅ Or convert it into a professional portfolio README
 
-Just tell me 👍
